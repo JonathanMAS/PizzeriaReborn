@@ -14,15 +14,27 @@ main{
 	margin: auto;
 	padding: auto;
 	width:85%;
-	background-color: orange;
 }
 
 .prensentation{
+	width:85%;
 	margin: auto;
 	padding: auto;
 	background-color: orange;
 }
 
+.color1{
+	background-color: orange;
+}
+
+.color2{
+	background-color: #ffcc66;
+}
+
+.grey{
+	background-color: rgba(0,0,0,0.9);
+	color: blue;
+}
 
 
 
