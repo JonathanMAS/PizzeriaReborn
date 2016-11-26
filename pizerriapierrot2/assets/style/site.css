@@ -1,12 +1,16 @@
+@font-face {
+    font-family: Quicksand;
+    src: url(https://fonts.googleapis.com/css?family=Quicksand);
+}
 html, body
 {
  height:100%;
  margin:0px;
- font-family:Georgia;
+ font-family:Quicksand;
 }
 .wg-formfield
 {
- font-family:Georgia;
+ font-family:Quicksand;
  font-size:15px;
 }
 .wg-button a:hover img
@@ -179,7 +183,7 @@ margin-left:16px;
   text-align: center;
 }
 .twps_eb050f174a1f4322f344f7ebcd85d0b8 {
- font-family: Georgia;
+ font-family: Quicksand;
  font-size:25px;
  color:#000000;
  border:1px dotted #000000;
@@ -187,7 +191,7 @@ margin-left:16px;
 }
 .twps_eb050f174a1f4322f344f7ebcd85d0b8 h2 {
  margin:1px;
- font-family: Georgia;
+ font-family: Quicksand;
  font-size:13px;
  font-weight: bold;
  text-align:center;
@@ -209,13 +213,13 @@ margin-left:16px;
  margin-top:10px; margin-bottom:10px;
 }
 .twps_e0a19b3bd1194a15f7ad76dc96ce58c6 {
- font-family: Georgia;
+ font-family: Quicksand;
  font-size:25px;
  color:#292929;
 }
 .twps_e0a19b3bd1194a15f7ad76dc96ce58c6 h2 {
  margin:1px;
- font-family: Georgia;
+ font-family: Quicksand;
  font-size:20px;
  font-weight: bold;
  text-align:center;
@@ -278,7 +282,7 @@ table.shopcart a:hover{ text-decoration : underline;}
 #dhtmltooltip {
  position: absolute;
  width: 150px;
- font-family:Georgia;
+ font-family:Quicksand;
  font-size:15px;
  padding: 2px;
  visibility: hidden;
