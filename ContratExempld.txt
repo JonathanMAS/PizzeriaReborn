@@ -1,0 +1,88 @@
+lement du nom de domaine.
+Exemple de contrat
+
+Contrat de cession de site web et de nom de domaine
+
+Entre les soussignés :
+[Nom du propriétaire du site web / Nom de la société propriétaire du site web]
+[Adresse de lieu de résidence / Adresse et siège social] [Pays]
+Selon le cas :
+Immatriculée au registre du commerce et des sociétés sous le numéro d'immatriculation [numéro] représentée en la personne de [Nom et Prénom de la personne] en sa qualité de [fonction de la personne dans la société].
+[Adresse de courrier électronique]
+[Téléphone]
+Ci-après désigné comme « le Cédant »,
+Et
+[Nom et Prénom du client / Nom de la société client]
+[Adresse de lieu de résidence / Adresse et siège social] [Pays]
+Selon le cas :
+Immatriculée au registre du commerce et des sociétés sous le numéro d'immatriculation [numéro] représentée en la personne de [Nom et Prénom de la personne] en sa qualité de [fonction de la personne dans la société].
+[Adresse de courrier électronique]
+[Téléphone]
+Ci-après désigné comme « le Cessionnaire ».
+PRÉAMBULE
+Le nom de domaine [nom de domaine] est enregistré sous le numéro [numéro] auprès du bureau d'enregistrement [nom du bureau d'enregistrement du cédant / nom du bureau d'enregistrement concurrent].
+Le registre chargé de l'administration du nom de domaine est [nom du registre].
+Le Cédant s'engage à fournir le contrat d'enregistrement du nom de domaine, le cas échéant le contrat de renouvellement.
+Le Cédant s'oblige à produire l'extrait « WHOIS » actuel annexé au présent contrat.
+Les parties conviennent ce qui suit :
+ARTICLE 1 : Objet du contrat
+Le présent contrat a pour objet la cession du site web [nom du site web] et du nom de domaine [adresse du site web] au Cessionnaire moyennant rémunération.
+Le Cédant cédera au Cessionnaire la pleine et entière propriété du site web et du nom de domaine.
+Le Cédant cédera les éléments suivants :
+Selon le cas :
+photographies ;
+textes ;
+graphismes ;
+applications logicielles ;
+fichiers, etc.
+[indiquer le format des fichiers cédés]
+ARTICLE 2 : Prix
+La vente du site web et du nom de domaine est consentie moyennant la somme de [montant en euros] €.
+Selon le cas :
+Le Cessionnaire s'engage au paiement intégral du prix de vente au jour de la signature du présent contrat.
+Le Cessionnaire s'acquittera intégralement du prix après réception du nom de domaine par le bureau d'enregistrement.
+Le Cessionnaire s'acquittera partiellement du prix au jour de la signature à hauteur de [montant en euros] €. Le Cessionnaire procédera au paiement complet au jour de la réception effective du nom de domaine par le bureau d'enregistrement.
+Le Cessionnaire procédera au paiement de la cession du site web et du nom de domaine en plusieurs fois, soit en [indiquer le nombre de fois] fois :
+le [date], premier versement d'un montant de [montant en euros] € ;
+le [date], deuxième versement d'un montant de[montant en euros] € ;
+le [date], troisième versement d'un montant de [montant en euros] €, etc.
+ARTICLE 3 : Droit d'auteur
+Les parties s'engagent lors de la vente à respecter les dispositions relatives à la protection du droit d'auteur mentionnées dans le Code de la propriété intellectuelle.
+ARTICLE 4 : Obligations du cédant
+Le Cédant s'oblige à céder tous les droits rattachés au site web et au nom de domaine.
+Le Cédant s'engage à garantir qu'au jour de la présente cession le nom de domaine n'a fait l'objet d'aucune contestation et d'action en justice émanant d'un tiers.
+Le Cédant informera le bureau d'enregistrement du changement de propriétaire du nom de domaine, objet de la présente cession.
+Le Cédant assurera au Cessionnaire sa collaboration dans les démarches relatives au transfert du nom de domaine.
+ARTICLE 5 : Obligations du cessionnaire
+Le Cessionnaire payera le prix de la présente cession dans le respect des modalités de paiement stipulées dans le contrat.
+Le Cessionnaire s'engage à assurer la gestion du nom de domaine.
+ARTICLE 6 : Responsabilité contractuelle
+Le Cédant engage sa responsabilité. S'il faillit aux obligations contractuelles stipulées dans le présent contrat, il pourra être poursuivi en justice.
+Le Cessionnaire engage sa responsabilité en cas de défaut ou de retard dans le paiement. Par conséquent, il pourra être traduit devant la juridiction compétente.
+ARTICLE 7 : Transfert de propriété
+Selon le cas :
+La vente aura pour effet le transfert immédiat de la propriété depuis le Cédant vers le Cessionnaire.
+Malgré la vente, le transfert de propriété depuis le Cédant vers le Cessionnaire ne sera pas immédiat.
+ARTICLE 8 : Clause de non-concurrence
+Les parties s'engagent à ne pas se concurrencer dans leurs activités respectives.
+Éventuellement :
+[Tous les effets / Certains effets] de la présente clause feront l'objet d'une limitation dans le temps conformément aux objectifs respectifs des parties.
+ARTICLE 9 : Clause de respect du cocontractant
+Chaque partie s'oblige au respect mutuel. Chacune des parties s'interdit de porter atteinte à la réputation de l'autre.
+ARTICLE 10 : Garantie d'éviction
+Le Cédant garantit au Cessionnaire la jouissance paisible du nom de domaine. Le Cédant assure le Cessionnaire d'une garantie contre toute action en justice ou extra-judiciaire. Cela concerne l'ensemble des actions judiciaires qui auraient pour effet l'interdiction ou la limitation de l'utilisation du nom de domaine ou des droits du cessionnaire relatifs au nom de domaine.
+ARTICLE 11 : Médiation préalable
+En cas de litige ayant pour objet la validation, l'interprétation, l'exécution ou la cessation du présent contrat, les parties mettent en œuvre préalablement à toute saisine de la juridiction compétente, une procédure de médiation.
+Les parties choisissent d'un commun accord la personne en charge de la médiation afin de trouver une solution amiable au différend. La personne choisie doit être qualifiée, indépendante, neutre et impartiale.
+Les parties s'engagent à se rendre au moins une fois à l'une des réunions de médiation.
+La médiation aura lieu à [lieu] et se déroulera en langue [française / anglaise, etc.].
+Chacune des parties prendra en charge à parts égales les frais de médiation.
+À l'issue de la médiation et si aucune solution amiable n'a été trouvée, les parties pourront recourir aux tribunaux pour trancher le litige.
+Article 12 : Annexe
+L'extrait de « WHOIS » cité plus haut et placé en annexe fait partie intégrante du présent contrat.
+ARTICLE 13 : Droit applicable et juridiction compétente
+Le droit applicable au présent contrat est le droit français.
+Les parties conviennent d'un commun accord que le Tribunal de Grande Instance de [Ville] aura compétence pour trancher un éventuel litige.
+Fait en deux exemplaires, le [date] à [Ville].
+Signature précédée de la mention « lu et approuvé » :
+[Signature du Cédant]	[Signature du Cessionnaire]
