@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Quicksand;
+    src: url(https://fonts.googleapis.com/css?family=Quicksand);
+}
+
+body
+{
+	margin:0px;
+	font-family:Quicksand;
+	background-color: #ffcc66;
+}
+
+main{
+	margin: auto;
+	padding: auto;
+	width:85%;
+	background-color: orange;
+}
+
+.prensentation{
+	margin: auto;
+	padding: auto;
+	background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
